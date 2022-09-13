@@ -1,0 +1,3 @@
+docker exec -it <IdContenedor_Database> bash
+psql -U postgres test
+ Select * from Perosna;
